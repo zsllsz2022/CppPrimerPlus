@@ -1,0 +1,2 @@
+1.尽量在自己的代码中写namespace,防止命名冲突
+2.不要使用using namespace std; or using std::cout;标明命名空间！！清晰
